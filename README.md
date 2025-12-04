@@ -1,2 +1,2 @@
-# MSt in Healthcare Data Science -- Module 2: Introduction to Git
+# MSt in Healthcare Data Science -- Introduction to Git
 
