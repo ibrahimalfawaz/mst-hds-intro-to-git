@@ -1,6 +1,6 @@
 # MSt in Healthcare Data Science -- Introduction to Git
 
-## Introducing the newest `git` command:
+## Introducing the latest `git` command:
 
 Name: 
 
